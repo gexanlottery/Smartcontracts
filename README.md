@@ -1,2 +1,2 @@
-# Smartcontracts
-Smartcontracts which we use in our lotteries
+# GexanLottery
+Gexan Lottery Smart-contract
